@@ -1,0 +1,31 @@
+,met,cor,p_value
+3,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",0.7326153816823291,1.2521133858490995e-06
+26,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",0.6678637205842262,2.171983316952476e-05
+18,"Incidence of tuberculosis (per 100,000 people)",0.6651384399935045,2.4122674677842223e-05
+40,Prevalence of undernourishment (% of population),0.6590929822886937,3.0330761237655847e-05
+27,"Mortality rate, adult, female (per 1,000 female adults)",0.6482545235013639,8.031162086940394e-05
+24,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",0.6426760951159036,5.5102815573030614e-05
+29,"Mortality rate, under-5 (per 1,000 live births)",0.6021596068609748,0.00020926564542431697
+28,"Mortality rate, adult, male (per 1,000 male adults)",0.5706952579710831,0.0008008884550910695
+25,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",0.4925396121599622,0.0035926875515548567
+23,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",0.4596743496819131,0.007117404087026415
+38,"Population, total",0.40197280628028326,0.020400499430622165
+2,"Birth rate, crude (per 1,000 people)",0.38925199888179646,0.025156069254499452
+22,"Mortality caused by road traffic injury (per 100,000 people)",0.3698396125038651,0.03414029659089016
+32,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.34745771696553435,0.04756366117990337
+44,Urban population (% of total population),-0.3553803017501103,0.042399166135517016
+7,Current health expenditure per capita (current US$),-0.3734480582590982,0.032297613632088565
+31,"Nurses and midwives (per 1,000 people)",-0.4025553193869031,0.020201961394176658
+6,Current health expenditure (% of GDP),-0.40361157488923877,0.019846043866389693
+12,"GNI per capita, Atlas method (current US$)",-0.4077125758552621,0.01851309646797903
+11,GDP per capita (current US$),-0.41523304669632155,0.01626201492495792
+14,"Immunization, HepB3 (% of one-year-old children)",-0.42522636252716817,0.024084119147177473
+34,"Physicians (per 1,000 people)",-0.4856210142204943,0.005615867766045167
+13,"Immunization, DPT (% of children ages 12-23 months)",-0.4929359751200568,0.003561724372555766
+15,"Immunization, measles (% of children ages 12-23 months)",-0.5108064540500081,0.0023849525870691863
+21,"Life expectancy at birth, total (years)",-0.570847857316362,0.000522083135617714
+43,UHC service coverage index,-0.5840658902680524,0.000358959203946629
+39,Prevalence of overweight (% of adults),-0.616958982346488,0.00013130181706301914
+0,Access to electricity (% of population),-0.6243252356161734,0.00010319717699218186
+5,"Cause of death, by non-communicable diseases (% of total)",-0.6811594832895758,1.2814886028771998e-05
+33,People with basic handwashing facilities including soap and water (% of population),-0.8102047275291756,0.0147514801964904

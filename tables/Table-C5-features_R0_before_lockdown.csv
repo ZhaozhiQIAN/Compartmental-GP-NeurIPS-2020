@@ -1,0 +1,11 @@
+,met,cor,p_value
+33,People with basic handwashing facilities including soap and water (% of population),0.7328498616198865,0.03862557732770823
+39,Prevalence of overweight (% of adults),0.5763611796325128,0.0004474224191218593
+43,UHC service coverage index,0.5655696608447077,0.0006036826726485724
+5,"Cause of death, by non-communicable diseases (% of total)",0.5467008991949003,0.0009951315605862036
+0,Access to electricity (% of population),0.5030348640756356,0.0028468960847691208
+21,"Life expectancy at birth, total (years)",0.49018953930025,0.003781091789505731
+34,"Physicians (per 1,000 people)",0.4811260632299203,0.006143064839640426
+6,Current health expenditure (% of GDP),0.4485009176508753,0.008849802241577621
+44,Urban population (% of total population),0.4295856944592457,0.012597306376710743
+15,"Immunization, measles (% of children ages 12-23 months)",0.41984193871436437,0.014998978665763567
