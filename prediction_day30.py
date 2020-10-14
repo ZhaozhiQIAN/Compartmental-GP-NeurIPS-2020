@@ -299,7 +299,7 @@ eval_list = [
 
 df_save = df_ours[df_ours.countries.isin(eval_list)]
 
-df_save.to_csv('tables/Table-1-Table-2-cgp-countries-30d.csv')
+df_save.to_csv('tables/Table-2-cgp-countries-30d.csv')
 
 # ## Get benchmarks
 
