@@ -1,9 +1,13 @@
-# Table 1, 2
+# Table 1
 python -u seir_loop.py
 
+python -u prediction_table1.py
+python -u benchmark_table1.py
+
+# Table 2
 python -u prediction_day14.py
 python -u benchmark_day14.py
-python -u prediction_day30.py &
+python -u prediction_day30.py
 python -u benchmark_day30.py
 
 # Figure 3
