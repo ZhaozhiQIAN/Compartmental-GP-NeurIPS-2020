@@ -10,6 +10,8 @@ Unlike other spread models, CGP is able to tackle “What if?” policy question
 
 ## Usage
 
+This repository is around 450MB in size. Please ensure you have a stable internet connection and enough disk space before cloning. 
+
 To run the code locally, make sure to first install the required python packages specified in `requirements.txt`.
 
 The `run.sh` file contains commands to reproduce the tables and figures in the paper (Note it may take 2-3 days to run the entire study on a standard desktop). 
